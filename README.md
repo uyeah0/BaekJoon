@@ -1,2 +1,2 @@
 # BaekJoon
-https://www.acmicpc.net/problemset 단계별 문제 풀기
+https://www.acmicpc.net/problemset 문제 풀기
